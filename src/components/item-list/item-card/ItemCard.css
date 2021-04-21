@@ -1,0 +1,12 @@
+.item-card {
+  width: 150px;
+  max-width: 98vw;
+}
+.item-card img {
+  border-radius: 50%;
+  width: 100px;
+  max-width: 98vw;
+}
+.item-card .name {
+  color: red;
+}
